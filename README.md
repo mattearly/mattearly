@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Wonder what I'm up to? I generally update my coding activities on [Twitter](https://twitter.com/matthewjayearly).
+
 <!--
 **mattearly/mattearly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
