@@ -1,10 +1,13 @@
-### Hi there 👋
+<p align='center'>
+<a href="https://twitter.com/matthewjayearly/"><img height="30" src="https://github.com/mattearly/mattearly/blob/main/icon/twitter.png?raw=true"></a>
+<a href="https://instagram.com/matthewjearly/"><img height="30" src="https://github.com/mattearly/mattearly/blob/main/icon/instagram.jpg?raw=true"></a>
+</p>
 
-Wonder what I'm up to? I generally update my coding activities on [Twitter](https://twitter.com/matthewjayearly).
+Hi there 👋,
+
+I create and work on C/C++ Libraries and Applications. I also teach code, stream, and make video tutorials about all these things and Computer Science topics.
 
 <!--
-**mattearly/mattearly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
