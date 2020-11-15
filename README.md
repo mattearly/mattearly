@@ -1,6 +1,6 @@
 <p align='center'>
-<a href="https://twitter.com/matthewjayearly/"><img height="30" src="https://github.com/mattearly/mattearly/blob/main/icon/twitter.png?raw=true"></a>
-<a href="https://instagram.com/matthewjearly/"><img height="30" src="https://github.com/mattearly/mattearly/blob/main/icon/instagram.jpg?raw=true"></a>
+<a href="https://twitter.com/matthewjayearly/"><img height="30" src="https://github.com/mattearly/mattearly/blob/master/icon/twitter.png"></a>
+<a href="https://instagram.com/matthewjearly/"><img height="30" src="https://github.com/mattearly/mattearly/blob/master/icon/instagram.png"></a>
 </p>
 
 Hi there 👋,
