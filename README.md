@@ -5,7 +5,9 @@
 
 Hi there 👋,
 
-I create and work on C/C++ Libraries and Applications. I also teach code, stream, and make video tutorials about all these things and Computer Science topics.
+I create and work on C/C++ Libraries and Applications with a focus on games. I also teach code, stream, and make video tutorials about all these things and Computer Science topics.
+
+Other hobbies include getting all technical about PC and laptop builds, playing Magic: The Gathering, PC Gaming, and occasionally Dungeons and Dragons.
 
 <!--
 Here are some ideas to get you started:
