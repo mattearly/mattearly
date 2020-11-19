@@ -9,6 +9,8 @@ I create and work on C/C++ Libraries and Applications with a focus on games. I a
 
 Other hobbies include getting all technical about PC and laptop builds, playing Magic: The Gathering, PC Gaming, and occasionally Dungeons and Dragons.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattearly)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mattearly&count_private=true&show_icons=true&theme=dark)
 
 <!--
