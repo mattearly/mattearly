@@ -1,7 +1,6 @@
-<p align='center'>
-<a href="https://twitter.com/matthewjayearly/"><img height="30" src="https://github.com/mattearly/mattearly/blob/master/icon/twitter.png"></a>
-<a href="https://instagram.com/matthewjearly/"><img height="30" src="https://github.com/mattearly/mattearly/blob/master/icon/instagram.png"></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattearly&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/mattearly?tab=repositories)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mattearly&count_private=true&show_icons=true&theme=dark)
 
 Hi there 👋,
 
@@ -9,9 +8,8 @@ I create and work on C/C++ Libraries and Applications with a focus on games. I a
 
 Other hobbies include getting all technical about PC and laptop builds, playing Magic: The Gathering, PC Gaming, and occasionally Dungeons and Dragons.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattearly&count_private=true&show_icons=true&theme=dark)](https://github.com/mattearly?tab=repositories)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mattearly&count_private=true&show_icons=true&theme=dark)
+<p align='center'>
+<a href="https://twitter.com/matthewjayearly/"><img height="30" src="https://github.com/mattearly/mattearly/blob/master/icon/twitter.png"></a>
 
 <!--
 Here are some ideas to get you started:
