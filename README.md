@@ -1,4 +1,4 @@
-<a href="https://twitter.com/matthewjayearly/"><img height="30" src="https://github.com/mattearly/mattearly/blob/master/icon/twitter.png"></a>
+<a href="https://mattearly.github.com">Site</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattearly&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/mattearly?tab=repositories)
 
