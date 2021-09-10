@@ -1,4 +1,4 @@
-<a href="https://mattearly.github.com">Site</a>
+<a href="https://mattearly.github.io">Website</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattearly&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/mattearly?tab=repositories)
 
