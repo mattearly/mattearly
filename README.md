@@ -1,3 +1,5 @@
+👋 Hi, I'm Matt. 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattearly&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/mattearly?tab=repositories)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mattearly&count_private=true&show_icons=true&theme=dark)
