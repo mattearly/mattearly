@@ -1,5 +1,7 @@
 👋 Hi, I'm Matt. 
 
+I'm a C++ Developer and pc gaming enthusiast.
+
 
 
 <!--
